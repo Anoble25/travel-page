@@ -1,0 +1,16 @@
+body {
+  background-image: url("../img/landscape.jpg");
+  background-size: 100%;
+}
+
+.well {
+  color:#F0F8FF	;
+  font-weight: bolder;
+}
+.jumbotron{
+  background-color: transparent;
+}
+
+h2{
+  color:White;
+}
